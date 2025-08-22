@@ -26,4 +26,7 @@ This project provides Terraform configurations to deploy a production-ready Azur
    cd Azure-AKS-Deployment
   ```
 2. **Initialize Terraform**
+  ```sh
      terraform init
+  ```
+
